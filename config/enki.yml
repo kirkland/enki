@@ -1,7 +1,7 @@
 # Configuration options for your blog - customise to taste
 # This file contains no secret information, so can be stored in source control (unlike database.yml)
 title: The Kirklander Blog
-url:   http://rob-enki.heroku.com
+url:   http://www.kirklander.info
 author:
   name:    Robert Kaufman   # For copyright notice and ATOM feeds
   email:   rob.m.kaufman@gmail.com # Exception emails will go here, and it is used in ATOM feeds
